@@ -18,7 +18,14 @@ I am always named as a successful student in Turkish Educational System which is
 
 I want to be a Software Engineer with high social skills that see people’s problems and try to clear up. Mobile devices are so interesting to me, many times of our days go with them because of that I am so curious about mobile technologies. The social and creative side of my brain wants to feel like a Chef who serves experience, not just food. Jungian Psychology, Baudrillard’s Simulacra ideas, Kant’s philosophy and Game Theory whet my desire about games. I hope one day in the future I can offer people a good experience through games.
 
+## Where you can find me also?
 
+![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%40emirkelesdocs&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Femirkelesdocs) 
+![Instagram URL](https://img.shields.io/twitter/url?label=follow%20%40emirkeles.png&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Femirkeles.png%2F)
+![Medium URL](https://img.shields.io/twitter/url?label=Follow%20%40bemirkeles&logo=Medium&style=social&url=https%3A%2F%2Fbemirkeles.medium.com%2F)
+![Twitch URL](https://img.shields.io/twitter/url?label=Follow%20%40kutalan&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fkutalan)
+![Reddit URL](https://img.shields.io/twitter/url?label=Follow%20%40kutalan&logo=Reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fkutalan)
+![Spotify URL](https://img.shields.io/twitter/url?label=Follow%20the%20playlists&logo=Spotify&style=social&url=https%3A%2F%2Fopen.spotify.com%2Fuser%2F21onsxqmjfevmoiamacovcl7q%3Fsi%3D9520dccd8aa84ebd)
 
 <!--
 **burhanemirkeles/burhanemirkeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
