@@ -18,6 +18,11 @@ I am always named as a successful student in Turkish Educational System which is
 
 I want to be a Software Engineer with high social skills that see people’s problems and try to clear up. Mobile devices are so interesting to me, many times of our days go with them because of that I am so curious about mobile technologies. The social and creative side of my brain wants to feel like a Chef who serves experience, not just food. Jungian Psychology, Baudrillard’s Simulacra ideas, Kant’s philosophy and Game Theory whet my desire about games. I hope one day in the future I can offer people a good experience through games.
 
+
+
+
+
+
 <!--
 ## Where you can find me also?
 
