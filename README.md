@@ -2,7 +2,7 @@
 
 98’ model -defined as gen-Z but feels as gen-Y more- human being. 
 
-In the last 15 years, I tried to be a perfect consumer of entertainment and information. Nowadays, I am also trying to be a producer of this entertainment and information. I did some amateurish DJ stuff and live streams on Twitch and tried to catch up with computer programming. In early times of my college life, I met Carl Gustav Jung via another great man. This acquaintance simplified the ways I understand different concepts in life. As someone who has a hard time understanding life and people, my interest in computer science and psychology helps me a lot. 
+In the last 15 years, I tried to be a perfect consumer of entertainment and information. Nowadays, I am also trying to be a producer of this entertainment and information. I did some amateurish DJ stuff and live streams on Twitch and tried to catch up with computer programming. In early times of my college life, I met Carl Gustav Jung thanks to another great man. This acquaintance simplified the ways I understand different concepts in life. As someone who has a hard time understanding life and people, my interest in computer science and psychology helps me a lot. 
 
 That’s me, briefly.
 
