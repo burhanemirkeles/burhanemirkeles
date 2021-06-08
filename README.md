@@ -18,21 +18,43 @@ I am always named as a successful student in Turkish Educational System which is
 
 I want to be a Software Engineer with high social skills that see people’s problems and try to clear up. Mobile devices are so interesting to me, many times of our days go with them because of that I am so curious about mobile technologies. The social and creative side of my brain wants to feel like a Chef who serves experience, not just food. Jungian Psychology, Baudrillard’s Simulacra ideas, Kant’s philosophy and Game Theory whet my desire about games. I hope one day in the future I can offer people a good experience through games.
 
-
-
-
-
-
-<!--
 ## Where you can find me also?
 
-![Twitter URL](https://img.shields.io/twitter/url?label=follow%20%40emirkelesdocs&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Femirkelesdocs) 
-![Instagram URL](https://img.shields.io/twitter/url?label=follow%20%40emirkeles.png&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Femirkeles.png%2F)
-![Medium URL](https://img.shields.io/twitter/url?label=Follow%20%40bemirkeles&logo=Medium&style=social&url=https%3A%2F%2Fbemirkeles.medium.com%2F)
-![Twitch URL](https://img.shields.io/twitter/url?label=Follow%20%40kutalan&logo=Twitch&style=social&url=https%3A%2F%2Fwww.twitch.tv%2Fkutalan)
-![Reddit URL](https://img.shields.io/twitter/url?label=Follow%20%40kutalan&logo=Reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fkutalan)
-![Spotify URL](https://img.shields.io/twitter/url?label=Follow%20the%20playlists&logo=Spotify&style=social&url=https%3A%2F%2Fopen.spotify.com%2Fuser%2F21onsxqmjfevmoiamacovcl7q%3Fsi%3D9520dccd8aa84ebd)
--->
+[![instagram][1.1]][1]
+[![medium][2.1]][2]
+[![linkedin][3.1]][3]
+[![twitch][4.1]][4]
+[![reddit][5.1]][5]
+[![twitter][6.1]][6]
+[![spotify][7.1]][7]
+[![eksi][8.1]][8]
+
+
+<!-- icons -->
+[1.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/instagram.png?raw=true
+[2.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/medium.png?raw=true
+[3.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/linkedin.png?raw=true
+[4.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/twitch.png?raw=true
+[5.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/reddit.png?raw=true
+[6.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/twitter.png?raw=true
+[7.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/spotify.png?raw=true
+[8.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/drop.png?raw=true
+
+
+<!-- links to your social media accounts -->
+[1]: https://www.instagram.com/emirkeles.png/
+[2]: https://bemirkeles.medium.com/
+[3]: https://www.linkedin.com/in/emir-kele%C5%9F-710236156/
+[4]: https://www.twitch.tv/kutalan
+[5]: https://www.reddit.com/user/kutalan
+[6]: https://twitter.com/emirkelesdocs
+[7]: https://open.spotify.com/user/21onsxqmjfevmoiamacovcl7q?si=81f5c91cd4364dd4
+[8]: https://eksisozluk.com/biri/kutalan
+
+
+
+
+
 
 
 <!--
