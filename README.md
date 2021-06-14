@@ -29,6 +29,7 @@ I want to be a Software Engineer with high social skills that see people’s pro
 [![spotify][7.1]][7]
 [![eksi][8.1]][8]
 
+For better view, use Default light or dark dimmed theme. 
 
 <!-- icons -->
 [1.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/instagram.png?raw=true
