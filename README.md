@@ -10,7 +10,7 @@ That’s me, briefly.
 
 I am a Software Engineering student in Bahcesehir University, İstanbul. In general perspective, I am trying to improve my knowledge in three main concepts that are programming, entertaining and understanding. 
 
-Currently, I'm enhancing myself in the Flutter SDK, which I have a great love for. You can see some projects in my repositories.
+Currently, I'm in the product engineering internship program @[kizlarsoruyor.com](https://www.kizlarsoruyor.com "kizlarsoruyor"). Also, I'm enhancing myself in the Flutter SDK, which I have a great love for. You can see some projects in my repositories.
 
 # What I want to Do?
 
