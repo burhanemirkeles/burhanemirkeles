@@ -25,7 +25,7 @@ I want to be an engineer with high social skills that see people’s problems an
 [![reddit][5.1]][5]
 [![twitter][6.1]][6]
 [![spotify][7.1]][7]
-[![eksi][8.1]][8]
+
 
 For better view, use Default light or dark dimmed theme. 
 
@@ -37,7 +37,7 @@ For better view, use Default light or dark dimmed theme.
 [5.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/reddit.png?raw=true
 [6.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/twitter.png?raw=true
 [7.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/spotify.png?raw=true
-[8.1]: https://github.com/burhanemirkeles/burhanemirkeles/blob/main/images/drop.png?raw=true
+
 
 
 
@@ -49,7 +49,7 @@ For better view, use Default light or dark dimmed theme.
 [5]: https://www.reddit.com/user/kutalan
 [6]: https://twitter.com/emirkelesdocs
 [7]: https://open.spotify.com/user/21onsxqmjfevmoiamacovcl7q?si=81f5c91cd4364dd4
-[8]: https://eksisozluk.com/biri/kutalan
+
 
 
 
