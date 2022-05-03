@@ -24,9 +24,10 @@ I want to be an engineer with high social skills that see people’s problems an
 [![medium][2.1]][2]
 [![linkedin][3.1]][3]
 [![twitch][4.1]][4]
-[![reddit][5.1]][5]
-[![twitter][6.1]][6]
 [![spotify][7.1]][7]
+<!--[![reddit][5.1]][5]
+[![twitter][6.1]][6]-->
+
 
 
 For better view, use Default light or dark dimmed theme. 
