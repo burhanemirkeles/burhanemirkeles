@@ -8,9 +8,7 @@ That’s me, briefly.
 
 # What I am Doing?
 
-I am a Software Engineering student in Bahcesehir University, İstanbul. In general perspective, I am trying to improve my knowledge in three main concepts that are programming, entertaining and understanding. 
-
- Currently, I am in internship program @Halkbank as a iOS Developer intern. 
+Currently, I am working at Halkbank as a Junior iOS Developer. In general, I am trying to improve my knowledge in three main concepts that are programming, entertaining, and understanding.
 
 # What I want to Do?
 
