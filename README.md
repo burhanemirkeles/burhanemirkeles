@@ -10,6 +10,8 @@ That’s me, briefly.
 
 Currently, I am working at Halkbank as a Junior iOS Developer. In general, I am trying to improve my knowledge in three main concepts that are programming, entertaining, and understanding.
 
+Over time, I contributed to the development of screens, UI components and services, and bug fixes for different domain-based teams. Also, I contributed accessibility developments and version distrubition strategies.
+
 # What I want to Do?
 
 I am always named as a successful student in Turkish Educational System which is not great, sadly. When I had a computer for the first time, unlike most coders, I couldn’t recognize that this could be programmable. As you can see, I was not that bright. I thought my biggest dream was to be a medical doctor since I was six years old, when I realized that my real dream is to help people and with my personal skills, the best way to achieve this dream is through engineering. When I decided to take the College Exam a second time, I clearly focused on being in the Software Engineering Department in Bahcesehir University.
