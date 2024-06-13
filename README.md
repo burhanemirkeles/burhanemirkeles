@@ -47,7 +47,7 @@ For better view, use Default light or dark dimmed theme.
 <!-- links to your social media accounts -->
 [1]: https://www.instagram.com/emirkeles.png/
 [2]: https://bemirkeles.medium.com/
-[3]: https://www.linkedin.com/in/emir-kele%C5%9F-710236156/
+[3]: https://www.linkedin.com/in/emir-keles
 [4]: https://www.twitch.tv/kutalan
 [5]: https://www.reddit.com/user/kutalan
 [6]: https://twitter.com/emirkelesdocs
